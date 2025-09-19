@@ -51,7 +51,7 @@
 ![iPhone 扫码](https://weixin2.app/images/kf_imessage_kf001.png)
 
 
-- 📱 [**iMessage**（推荐）](imessage:ethan_0x00@icloud.com)
+- 📱 [iMessage 客服](imessage:ethan_0x00@icloud.com)
 - 💬 [Telegram 群](https://t.me/wechat_x)
 - ❌ 微信暂不可用
 
