@@ -48,7 +48,7 @@
 
 ## 📞 联系客服
 
-![iPhone 扫码](docs/images/kf_imessage_kf001.png)
+![iPhone 扫码](https://weixin2.app/images/kf_imessage_kf001.png)
 
 
 - 📱 [**iMessage**（推荐）](imessage:ethan_0x00@icloud.com)
